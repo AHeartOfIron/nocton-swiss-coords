@@ -1,6 +1,6 @@
-# swiss-coords
+# nocton-swiss-coords
 
-[![tests](https://github.com/AHeartOfIron/swiss-coords/actions/workflows/ci.yml/badge.svg)](https://github.com/AHeartOfIron/swiss-coords/actions/workflows/ci.yml)
+[![tests](https://github.com/AHeartOfIron/nocton-swiss-coords/actions/workflows/ci.yml/badge.svg)](https://github.com/AHeartOfIron/nocton-swiss-coords/actions/workflows/ci.yml)
 
 Convert GPS coordinates (WGS84) to and from the Swiss national grids **LV95** and **LV03**.
 Pure Python, no dependencies, one small file.
@@ -12,7 +12,7 @@ For survey work, use swisstopo [REFRAME](https://www.swisstopo.admin.ch/en/coord
 ## Install
 
 ```bash
-pip install git+https://github.com/AHeartOfIron/swiss-coords
+pip install git+https://github.com/AHeartOfIron/nocton-swiss-coords
 ```
 
 ## Command line

@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/AHeartOfIron/swiss-coords"
+Homepage = "https://github.com/AHeartOfIron/nocton-swiss-coords"
 
 [project.scripts]
 swisscoords = "swisscoords.cli:main"
